@@ -1,0 +1,10 @@
+etc/
+include/
+lib/
+Scripts/
+share/
+*.py
+*.mp4
+*.cfg
+jump_counter.ipynb
+main_updated
